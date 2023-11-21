@@ -1,0 +1,24 @@
+.home{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    .img1{
+        width:40vw;
+        height: 60vh; 
+    }
+    .right{
+        margin-top: 100px;
+        h1{
+            font-size: 65px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: rgb(189, 10, 10);
+        }
+        h2{
+            margin-top: 30px;
+        }
+        p{
+            text-align: center;
+            margin-top: 30px;
+        }
+    }
+}

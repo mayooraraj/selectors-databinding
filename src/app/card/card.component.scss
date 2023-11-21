@@ -1,0 +1,17 @@
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+.card{
+    width: 300px;
+   
+    
+    .card-img-top{
+        height: 250px;
+       
+    }
+    .card-title{
+        color: green;
+    }
+}
+}

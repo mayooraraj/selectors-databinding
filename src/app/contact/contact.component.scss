@@ -1,0 +1,26 @@
+.contact{
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 50px;
+    border: 2px solid green;
+    width: 500px;
+    height: 450px;
+   
+    input{
+        margin-top: 50px;
+        padding: 5px 0px;
+       width: 400px;
+ 
+    }
+    .msg{
+        height: 100px;
+    }
+    button{
+        margin-top: 50px;
+        border: none;
+        width: 90px;
+       height: 37px;
+        background-color: green;
+        color: white;
+    }
+}
